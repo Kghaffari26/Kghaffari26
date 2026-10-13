@@ -20,9 +20,9 @@ Four AI agents that track **housing, the economy, federal contracts, and code**,
 Production Next.js / React apps with AI features for healthcare, dental, real estate and finance clients (private repos): role-based Supabase backends, Claude-powered assistants, analytics dashboards, and a tested integer-cent loan-math engine.
 
 ### 🛠️ Stack
-**Languages:** Python · TypeScript · JavaScript
-**Frontend:** Next.js · React · Tailwind · Recharts
-**AI:** Claude API · tool use / agent loops · MCP · evals
+**Languages:** Python · TypeScript · JavaScript  
+**Frontend:** Next.js · React · Tailwind · Recharts  
+**AI:** Claude API · tool use / agent loops · MCP · evals  
 **Infra:** GitHub Actions · GitHub Pages · Supabase · Playwright · Vitest
 
 ### 📫 Reach me
